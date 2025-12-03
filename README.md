@@ -7,7 +7,7 @@ and his Discord server: https://veux.su/discord.
 He claims that he can manually or automatically remove "pairipcore".
 Do **not** trust this claim. I was personally scammed and suffered financial loss.
 
-After receiving payment, he immediately deleted all chat history and blocked me.
+After receiving payment, he immediately deleted all chat history on discord and blocked me.
 Any issue I created on his repository was also deleted shortly after.
 
 Therefore, I created this repository to warn others.
